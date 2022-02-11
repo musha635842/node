@@ -1,0 +1,29 @@
+{
+  "name": "node_entryview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "aws-sdk": "^2.1071.0",
+    "bull": "^4.5.1",
+    "chai": "^4.3.6",
+    "formidable": "^2.0.1",
+    "graphql": "^16.3.0",
+    "graphql-tools": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^9.2.0",
+    "nodemailer": "^6.7.2",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "request": "^2.88.2",
+    "sequelize": "^6.15.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
